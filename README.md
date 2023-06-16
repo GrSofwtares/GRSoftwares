@@ -1,4 +1,4 @@
-<h3 align="left">Bem-vindo ao GitHub da GRSoftwares!<br><br>Somos uma empresa apaixonada por desenvolvimento de software e criação de websites inovadores. Nossa equipe está empenhada em entregar soluções tecnológicas de qualidade, utilizando as melhores práticas e as mais recentes tecnologias do mercado.<br><br>Neste repositório, você encontrará uma coleção de projetos empolgantes que desenvolvemos. Desde aplicativos móveis personalizados até websites responsivos e dashboards interativos, cada projeto reflete nosso compromisso com a excelência e a busca constante pela inovação.<br><br>Aqui, compartilhamos nosso código-fonte, documentação e recursos para que você possa explorar, colaborar e aprender com nossas soluções. Fique à vontade para explorar os projetos, fazer perguntas e contribuir com suas ideias.<br><br>Estamos animados para compartilhar nosso trabalho com a comunidade do GitHub e esperamos que você encontre inspiração e valor em nossos projetos. Junte-se a nós nessa jornada de desenvolvimento, onde transformamos ideias em realidade e criamos soluções que impulsionam o sucesso de nossos clientes.<br><br>Seja bem-vindo à GRSoftwares no GitHub!</h3><br><br>
+<h3 align="center">Bem-vindo ao GitHub da GRSoftwares!<br><br>Somos uma empresa apaixonada por desenvolvimento de software e criação de websites inovadores. Nossa equipe está empenhada em entregar soluções tecnológicas de qualidade, utilizando as melhores práticas e as mais recentes tecnologias do mercado.<br><br>Neste repositório, você encontrará uma coleção de projetos empolgantes que desenvolvemos. Desde aplicativos móveis personalizados até websites responsivos e dashboards interativos, cada projeto reflete nosso compromisso com a excelência e a busca constante pela inovação.<br><br>Aqui, compartilhamos nosso código-fonte, documentação e recursos para que você possa explorar, colaborar e aprender com nossas soluções. Fique à vontade para explorar os projetos, fazer perguntas e contribuir com suas ideias.<br><br>Estamos animados para compartilhar nosso trabalho com a comunidade do GitHub e esperamos que você encontre inspiração e valor em nossos projetos. Junte-se a nós nessa jornada de desenvolvimento, onde transformamos ideias em realidade e criamos soluções que impulsionam o sucesso de nossos clientes.<br><br>Seja bem-vindo à GRSoftwares no GitHub!</h3><br><br>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -40,7 +40,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
