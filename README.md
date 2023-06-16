@@ -1,36 +1,20 @@
-## GRSoftwares
+<h1 align="center">Hi 👋, I'm GRSoftwares</h1>
+<h3 align="center">Bem-vindo ao GitHub da GRSoftwares! Somos uma empresa apaixonada por desenvolvimento de software e criação de websites inovadores. Nossa equipe está empenhada em entregar soluções tecnológicas de qualidade, utilizando as melhores práticas e as mais recentes tecnologias do mercado. Neste repositório, você encontrará uma coleção de projetos empolgantes que desenvolvemos. Desde aplicativos móveis personalizados até websites responsivos e dashboards interativos, cada projeto reflete nosso compromisso com a excelência e a busca constante pela inovação. Aqui, compartilhamos nosso código-fonte, documentação e recursos para que você possa explorar, colaborar e aprender com nossas soluções. Fique à vontade para explorar os projetos, fazer perguntas e contribuir com suas ideias. Estamos animados para compartilhar nosso trabalho com a comunidade do GitHub e esperamos que você encontre inspiração e valor em nossos projetos. Junte-se a nós nessa jornada de desenvolvimento, onde transformamos ideias em realidade e criamos soluções que impulsionam o sucesso de nossos clientes. Seja bem-vindo à GRSoftwares no GitHub!</h3>
 
-Bem-vindo ao repositório oficial da GRSoftwares! Somos uma empresa especializada em desenvolvimento de software, focada na criação de dashboards e websites responsivos de alta qualidade. Este repositório contém os projetos e recursos relacionados aos nossos serviços.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=grsoftwares&label=Profile%20views&color=0e75b6&style=flat" alt="grsoftwares" /> </p>
 
-## Sobre a GRSoftwares
-Na GRSoftwares, estamos comprometidos em fornecer soluções digitais sob medida para nossos clientes. Nossa equipe de programadores altamente qualificados tem experiência em desenvolvimento web e se dedica a entregar projetos personalizados que atendam às necessidades específicas de cada cliente.
+- 🔭 I’m currently working on **Ricos Móveis**
 
-## Projetos
-Neste repositório, você encontrará uma variedade de projetos relacionados aos nossos serviços, incluindo:
+- 👨‍💻 All of my projects are available at [www.grsoftwares.com.br](www.grsoftwares.com.br)
 
-Dashboards interativos para análise de dados
-Websites responsivos e otimizados para dispositivos móveis
-Sistemas de gerenciamento de conteúdo (CMS)
-Aplicações web personalizadas
+- 📫 How to reach me **contato@grsoftwares.com.br**
 
-## Tecnologias Utilizadas
-Na GRSoftwares, utilizamos uma combinação de tecnologias modernas para fornecer soluções de alto desempenho. Algumas das principais tecnologias e ferramentas que utilizamos incluem:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-HTML5, CSS3 e JavaScript para o desenvolvimento de interfaces modernas e interativas.
-Frameworks populares como React, Angular e Vue.js para a construção de aplicações web avançadas.
-Ferramentas de compilação e empacotamento, como Webpack e Babel, para otimizar e gerenciar o código.
-Bancos de dados SQL e NoSQL para armazenamento e recuperação eficientes de dados.
-Controle de versão com Git para rastreamento de alterações e colaboração em equipe.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## Contribuição
-Valorizamos a contribuição da comunidade para o aprimoramento de nossos projetos. Se você tiver sugestões, correções ou melhorias, fique à vontade para abrir uma issue ou enviar um pull request. Estamos sempre abertos a ideias inovadoras e colaboração.
-
-Contato
-Para mais informações sobre a GRSoftwares ou para entrar em contato conosco, você pode nos encontrar nos seguintes canais:
-
-Website: www.grsoftwares.com
-Email: contato@grsoftwares.com
-Telefone: +XX XXXX-XXXX
-Agradecemos por visitar nosso repositório e esperamos ter a oportunidade de trabalhar com você em um projeto incrível em breve!
-
-Equipe GRSoftwares
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/grsoftwares"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="grsoftwares" /></a></p><br><br>
