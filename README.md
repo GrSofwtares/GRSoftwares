@@ -1,62 +1,25 @@
-<h3 align="center">Bem-vindo ao GitHub da GRSoftwares! <br><br>Somos uma empresa apaixonada por desenvolvimento de software e criação de websites inovadores. Nossa equipe está empenhada em entregar soluções tecnológicas de qualidade, utilizando as melhores práticas e as mais recentes tecnologias do mercado.<br><br>Neste repositório, você encontrará uma coleção de projetos empolgantes que desenvolvemos. Desde aplicativos móveis personalizados até websites responsivos e dashboards interativos, cada projeto reflete nosso compromisso com a excelência e a busca constante pela inovação.<br><br>Aqui, compartilhamos nosso código-fonte, documentação e recursos para que você possa explorar, colaborar e aprender com nossas soluções. Fique à vontade para explorar os projetos, fazer perguntas e contribuir com suas ideias.<br><br>Estamos animados para compartilhar nosso trabalho com a comunidade do GitHub e esperamos que você encontre inspiração e valor em nossos projetos. Junte-se a nós nessa jornada de desenvolvimento, onde transformamos ideias em realidade e criamos soluções que impulsionam o sucesso de nossos clientes.<br><br>Seja bem-vindo à GRSoftwares no GitHub!</h3><br><br>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GrSofwtares&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GrSofwtares&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div><br><br>
+# 💫 About Me:
+Bem-vindo ao GitHub da GRSoftwares! Somos uma empresa apaixonada por desenvolvimento de software e criação de websites inovadores. Nossa equipe está empenhada em entregar soluções tecnológicas de qualidade, utilizando as melhores práticas e as mais recentes tecnologias do mercado. Neste repositório, você encontrará uma coleção de projetos empolgantes que desenvolvemos. Desde aplicativos móveis personalizados até websites responsivos e dashboards interativos, cada projeto reflete nosso compromisso com a excelência e a busca constante pela inovação. Aqui, compartilhamos nosso código-fonte, documentação e recursos para que você possa explorar, colaborar e aprender com nossas soluções. Fique à vontade para explorar os projetos, fazer perguntas e contribuir com suas ideias. Estamos animados para compartilhar nosso trabalho com a comunidade do GitHub e esperamos que você encontre inspiração e valor em nossos projetos. Junte-se a nós nessa jornada de desenvolvimento, onde transformamos ideias em realidade e criamos soluções que impulsionam o sucesso de nossos clientes. Seja bem-vindo à GRSoftwares no GitHub!
 
 
-###
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Zy7SmKDg5y) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/grsoftwares/) 
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-</div>
-<br><br>
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GrSofwtares&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GrSofwtares&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GrSofwtares&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=GrSofwtares&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
-<br><br>
+---
+[![](https://visitcount.itsvg.in/api?id=GrSofwtares&icon=1&color=1)](https://visitcount.itsvg.in)
 
-###
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/grsoftwares) 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GrSofwtares/GrSofwtares/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/GrSofwtares/count.svg?"  />
-</div>
-
-###
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
