@@ -7,6 +7,7 @@ Somos uma empresa apaixonada por desenvolvimento de software e criação de webs
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Zy7SmKDg5y) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/grsoftwares/) 
+[![GrSoftwares](https://img.shields.io/badge/website-000000?style=plastic&logo=About.me&logoColor=white)](https://grsoftwares.com.br)
 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
