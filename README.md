@@ -1,7 +1,10 @@
 
 
-<h1 align="center">#💫Bem-vindo ao GitHub da GRSoftwares!</h1> <br>
+<h1 align="center">#GitHub da GRSoftwares!</h1> <br>
 <p align="left">
+We are a company passionate about software development and creating innovative websites. Our team is committed to delivering quality technological solutions, using the best practices and latest technologies on the market. In this repository you will find a collection of exciting projects we have developed. From custom mobile applications to responsive websites and interactive dashboards, each project reflects our commitment to excellence and the constant search for innovation. Here, we share our source code, documentation, and resources so you can explore, collaborate, and learn from our solutions. Feel free to explore the projects, ask questions and contribute your ideas. We're excited to share our work with the GitHub community and hope you find inspiration and value in our projects. Join us on this development journey, where we turn ideas into reality and create solutions that drive our customers' success.
+
+<hr>
 Somos uma empresa apaixonada por desenvolvimento de software e criação de websites inovadores. Nossa equipe está empenhada em entregar soluções tecnológicas de qualidade, utilizando as melhores práticas e as mais recentes tecnologias do mercado. Neste repositório, você encontrará uma coleção de projetos empolgantes que desenvolvemos. Desde aplicativos móveis personalizados até websites responsivos e dashboards interativos, cada projeto reflete nosso compromisso com a excelência e a busca constante pela inovação. Aqui, compartilhamos nosso código-fonte, documentação e recursos para que você possa explorar, colaborar e aprender com nossas soluções. Fique à vontade para explorar os projetos, fazer perguntas e contribuir com suas ideias. Estamos animados para compartilhar nosso trabalho com a comunidade do GitHub e esperamos que você encontre inspiração e valor em nossos projetos. Junte-se a nós nessa jornada de desenvolvimento, onde transformamos ideias em realidade e criamos soluções que impulsionam o sucesso de nossos clientes.  
 </p>  <br><h2 align="center"> Seja bem-vindo à GRSoftwares no GitHub!</h2>
 
